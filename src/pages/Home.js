@@ -11,7 +11,7 @@ function Home(props) {
         <Link to="/menu">
         <button >Order Now</button>
         </Link>
-       
+       <div>changes</div>
       </div>
     </div>
   );
